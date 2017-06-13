@@ -1,0 +1,21 @@
+header {
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 350%;
+}
+
+h2 {
+    font-size: 200%;
+}
+
+spread {
+    letter-spacing: 5px;
+}
+
+.btn {
+    margin-top: 20px;
+}
